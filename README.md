@@ -1,5 +1,5 @@
-# IFSGD
-This is the source code of IFSGD optimizer from our paper: Enhancing Generalization of SGD from Perspective of Integration Filter
+# Filtering Out High-frequency Components of Gradient Sequence Leads to Flat Equivalent Loss Landscape
+This is the source code of IFSGD optimizer from our paper: Filtering Out High-frequency Components of Gradient Sequence Leads to Flat Equivalent Loss Landscape
 
 ## Image classification experiments on CIFAR using IFSGD
 ```shell
